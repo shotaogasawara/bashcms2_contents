@@ -9,7 +9,7 @@ Copyright: (c) 2020 Shota Ogasawara
 
 ## 二郎インスパイア
 
-![二郎インスパイア](./jiro_inspired.jpeg)
+![二郎インスパイア](./jiro_inspired.jpg)
 
 ## <span id-"jiro">二郎</span>
 
