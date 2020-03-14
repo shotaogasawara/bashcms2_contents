@@ -11,6 +11,6 @@ Copyright: (c) 2020 Shota Ogasawara
 
 ![二郎インスパイア](./jiro_inspired.jpg)
 
-## <span id-"jiro">二郎</span>
+## <span id="jiro">二郎</span>
 
-![](jiro_ramen.jpeg)
+![](jiro_ramen.jpg)
